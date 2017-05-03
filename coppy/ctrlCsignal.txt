@@ -1,0 +1,5 @@
+in top kill with signal 2
+
+or
+
+kill -SIGINT prosid
